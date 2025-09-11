@@ -9,6 +9,7 @@ int main() {
         ptr[i] = i + 1;
         
     // Print the array
+    // print
     for (int i = 0; i < 5; i++)
         printf("%d ", ptr[i]);
     return 0;
