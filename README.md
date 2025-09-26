@@ -1,6 +1,0 @@
-# example
-
-hello
-
-
-In C, a structure is a user-defined data type that can be used to group items of possibly different types into a single type. The struct keyword is used to define a structure. The items in the structure are called its members and they can be of any valid data type. Applications of structures involve creating data structures Linked List and Tree. Structures in C are also used to represent real world objects in a software like Students and Faculty in a college management software.
