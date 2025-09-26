@@ -10,6 +10,7 @@ int main() {
         
     // Print the array
     // print
+    // print l
     for (int i = 0; i < 5; i++)
         printf("%d ", ptr[i]);
     return 0;
